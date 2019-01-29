@@ -1,0 +1,22 @@
+.album-image {
+  width: 150px;
+  height: 150px;
+  background-size: cover;
+  border-radius: 16px;
+  margin: 10px;
+}
+
+.album-detail-wrapper {
+  display: flex;
+  align-items: center;
+  margin: 30px;
+  /* border: 1px solid rgba(0, 0, 0, 0.5); */
+  /* width: 400px; */
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+.album-name {
+  font-size: 14px;
+  padding: 10px;
+}

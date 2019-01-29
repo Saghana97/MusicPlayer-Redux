@@ -1,0 +1,68 @@
+.song-name {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin: 15px;
+}
+
+.text {
+  font-size: 18px;
+}
+
+.image-icon {
+  width: 100px;
+  height: 100px;
+  background: url("../../assets/baahubali.jpg");
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.content-wrapper {
+  width: 500px;
+}
+
+.add-songs p {
+  text-align: center;
+}
+
+button {
+  color: #fff;
+  background: #000;
+  padding: 8px 20px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+}
+
+.add-songs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+}
+
+.add-songs button {
+  margin: 10px;
+}
+
+.song {
+  margin: 10px;
+}
+
+.text {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.classForSong {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}
+
+.classForSong .artist {
+  font-size: 14px;
+}
